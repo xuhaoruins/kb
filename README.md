@@ -1,5 +1,7 @@
 # United States Patent Application Publication
 
+## Publication Number: US 2020/0411924 A1
+## Publication Date: Dec. 31, 2020
 ## ABSTRACT
 
 A battery module includes a battery cell assembly having a plurality of battery cells, a sensing assembly which covers a front and rear of the battery cell assembly when mounted thereto, a module case which receives the battery cell assembly and the mounted sensing assembly, and a thermally conductive adhesive interposed between an upper inner surface of the module case and an upper side of the battery cell assembly. The sensing assembly includes a first busbar frame assembly positioned at the front of the battery cell assembly, a second busbar frame assembly positioned at the rear of the battery cell assembly, and a sensing wire which connects the first and second busbar frame assemblies and runs across the upper side of the battery cell assembly in a diagonal direction. The thermally conductive adhesive is disposed on two sides of the sensing wire.
